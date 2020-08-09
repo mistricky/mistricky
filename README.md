@@ -17,7 +17,7 @@ I'm a WEB developer from ChengDu SiChuan, and I'm learning Ethereum recently, so
 
 ![](https://github-readme-stats.vercel.app/api?username=youncccat&show_icons=true&count_private=true&theme=radical)
 
-#### Language & Tools
+#### Languages & Tools
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/go/go-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/javascript/javascript-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/typescript/typescript-original.svg"></code>
@@ -36,3 +36,7 @@ I'm a WEB developer from ChengDu SiChuan, and I'm learning Ethereum recently, so
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/koa/koa.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
+
+
+
+*I'm a complete GIT, actually I'm not smart. I have poor logic thinking and sometimes I will write some terrible algorithms, but I'm still learning and try my best.*
