@@ -26,6 +26,7 @@ I'm a WEB developer from ChengDu SiChuan, and I'm learning Ethereum recently, so
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/web-assembly/web-assembly.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/angularjs/angularjs-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/react/react-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/webpack/webpack-original.svg"></code>
