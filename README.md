@@ -8,7 +8,7 @@ Hii, there👋! My name is Mist, a WEB <developer /> from ChengDu, I'm working o
 ![profile views](https://komarev.com/ghpvc/?username=youncccat&color=brightgreen)
 [![Mail](https://img.shields.io/badge/-Zhao✨-ff69b4?style=flat&logo=Gmail&logoColor=white)](mailto:haodawang.zhao@gmail.com)
 [![Twitter](https://img.shields.io/badge/-YC-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/YC08391623)
-[![QQ](https://img.shields.io/badge/QQ-YC-blue)](tencent://message/?Menu=yes&uin=1306036576&Service=300&sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45)
+
 
 ## {About coding}
 ```golang
