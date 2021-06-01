@@ -1,4 +1,4 @@
-<h1>Mist's blog</h1>
+<h1>Mist's profile</h1>
 <div>
   <img width="150px" src="https://github.com/youncccat/youncccat/blob/master/assets/octocat.gif" alt="octocat" />  
 
