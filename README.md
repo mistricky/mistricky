@@ -9,7 +9,7 @@
   <a href="https://zzhack.fun"><img src="https://img.shields.io/badge/blog-zzhack.fun-orange" /></a>
   
   <div>
-    Hii there, welcome to Mist's blog, have a happy landing. My name is Mist, a WEB developer from ChengDu, I'm working on blockchain wallet currently, and Mist is also name of an Ethereum wallet. Actually coding already is a important part of my life, nowdays, I'd love to spend most of my free time at <a href="https://github.com/wizardoc/wizard">Wizardoc</a>. I'm really happy to chat with u about interesting technical topic, looking forward to your email.
+    Hii there, welcome to Mist's blog, have a happy landing. My name is Mist, an WEB developer from ChengDu, I'm working on blockchain wallet currently, and Mist is also name of an Ethereum wallet. Actually coding already is a important part of my life, nowdays, I'd love to spend most of my free time at <a href="https://github.com/wizardoc/wizard">Wizardoc</a>. I'm really happy to chat with u about interesting technical topic, looking forward to your email.
   </div>
     
 </div>
@@ -25,7 +25,7 @@ class Developer:
   
   # 👋
   def say_hi(self):
-    print(f"Hi my name is {self.name}, I'm from {self.location['province']}/{self.location['country']} and working on {self.bussiness} recently.")
+    print(f"Hi my name is {self.name}, I'm from {self.location['city']}/{self.location['country']} and working on {self.bussiness} recently.")
 
   # 💻
   def coding(): 
@@ -37,7 +37,7 @@ class Developer:
   
 
   mist = Developer('Mist', 'Blockchain', {
-    'province': 'ChengDu',
+    'city': 'ChengDu',
     'country': 'China'
   })
  ```
