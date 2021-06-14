@@ -7,6 +7,7 @@
   <a href="mailto:zzhbbdbbd@163.com"><img src="https://img.shields.io/badge/-Zhao✨-ff69b4?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href="https://twitter.com/_mistricky"><img src="https://img.shields.io/badge/-_mistricky-blue?style=flat&logo=Twitter&logoColor=white"  alt="Twitter"/></a>
   <a href="https://zzhack.fun"><img src="https://img.shields.io/badge/blog-zzhack.fun-orange" /></a>
+  <img src="https://img.shields.io/badge/-%3CMist%20/%3E-orchid?style=flat&logo=discord&logoColor=white" />
   
   <div>
     Hii there, welcome to Mist's blog, have a happy landing. My name is Mist, an WEB developer from ChengDu, I'm working on blockchain wallet currently, and Mist is also name of an Ethereum wallet. Actually coding already is a important part of my life, nowdays, I'd love to spend most of my free time at <a href="https://github.com/wizardoc/wizard">Wizardoc</a>. I'm really happy to chat with u about interesting technical topic, looking forward to your email.
