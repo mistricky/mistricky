@@ -29,7 +29,7 @@ class Developer:
     print(f"Hi my name is {self.name}, I'm from {self.location['city']}/{self.location['country']} and working on {self.bussiness} recently.")
 
   # 💻
-  def coding(): 
+  def coding(self): 
     self.thinking()
     solution := self.copyCodeFromStackOverflow()
     self.feelLikeAProfessionalDeveloper()
