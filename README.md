@@ -16,34 +16,5 @@
     
 </div>
 
-## Self sh
-
-```python
-class Developer:
-  def __init__(self, name: str, bussiness: str, location: dict[str, str]):
-    self.name = name
-    self.bussiness = bussiness
-    self.location = location
-  
-  # 👋
-  def say_hi(self):
-    print(f"Hi my name is {self.name}, I'm from {self.location['city']}/{self.location['country']} and working on {self.bussiness} recently.")
-
-  # 💻
-  def coding(self): 
-    self.thinking()
-    solution := self.copyCodeFromStackOverflow()
-    self.feelLikeAProfessionalDeveloper()
-  
-    return solution
-  
-
-  mist = Developer('Mist', 'Blockchain', {
-    'city': 'ChengDu',
-    'country': 'China'
-  })
- ```
-
-
 
 
