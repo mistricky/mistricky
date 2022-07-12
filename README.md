@@ -1,6 +1,6 @@
 <h1>Mist's profile</h1>
 <div>
-  <img width="150px" src="https://github.com/youncccat/youncccat/blob/master/assets/banner.gif" alt="octocat" />  
+  <img src="https://github.com/youncccat/youncccat/blob/master/assets/banner.gif" alt="octocat" />  
 
         
   <img src="https://komarev.com/ghpvc/?username=youncccat&color=brightgreen" />
