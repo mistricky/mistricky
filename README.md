@@ -1,9 +1,9 @@
 <h1>Mist's profile</h1>
 <div>
   <img src="https://github.com/youncccat/youncccat/blob/master/assets/banner.gif" alt="octocat" />  
-  
+
    <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/mistricky/mistricky/ac231765d4d81c46cc5fe158122b88f4df25f300/github-contribution-grid-snake.svg" />
+    <img align="center" src="https://raw.githubusercontent.com/mistricky/mistricky/master/github-contribution-grid-snake-dark.svg" />
   </p>
         
   <img src="https://komarev.com/ghpvc/?username=youncccat&color=brightgreen" />
