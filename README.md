@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/badge/-%3CMist%20/%3E-orchid?style=flat&logo=discord&logoColor=white" />
   <a href=""><img src="https://img.shields.io/badge/-Mistricky-black?logo=dev.to" alt="DEV" /></a>
   
-  <div>
-    Hii there, welcome to Mist's profile, have a happy landing. My name is Mist, an software developer from ChengDu, I'm working on blockchain wallet currently, and Mist is also name of an Ethereum wallet. Actually coding already is a important part of my life, nowdays, I'd love to spend most of my free time at <a href="https://github.com/wizardoc/wizard">Wizardoc</a>. I'm really happy to have a chat with u about interesting technical topic, looking forward to your email.
-  </div>
-</div>
 
 
 
