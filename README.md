@@ -8,6 +8,7 @@
 
 <br />
 <br />
+<div align="left">
 <p>
   <img width="80" src="./assets/id_card.png" />
 </p>
@@ -22,6 +23,9 @@ I have a passion for programming language and framework design. I have plans to 
   <img width="80" src="./assets/palette.png" />
 </p>
 And I'm also a Biggg Fan of Pixel Art, abstract reality things and draw it on paper, pixel is a cool expression of how you see things, that's so cool.
+</div>
+
+<img align="right" src="./assets/avatar_whole_body.png" />
 
 
 <!-- <img src="https://komarev.com/ghpvc/?username=youncccat&color=brightgreen" />
