@@ -15,20 +15,28 @@
     <tr>
       <td>
       <div valign="top">
-  <img width="80" src="./assets/id_card.png" />
+<div>
+          <img width="80" src="./assets/id_card.png" />
+        </div>
 Hi I'm Mist, a 6 year old developer from ChengDu China. I'm currently working on block chain projects, but I'm always open to new ideas. I'm also a big fan of TypeScript, also Rust / Haskell / Golang, Function programming lover.
 
 <br />
+        <br />
 
 I have a passion for programming language and framework design. I have plans to create my own programming language which called Mist and will be placed [there](https://github.com/mistlang) , but nothing has started yet :(, if you are interested in this project, please contact me.
 
-
-  <img width="80" src="./assets/palette.png" />
+ <br />
+ <div>
+<img width="80" src="./assets/palette.png" />
+</div>
+        
+        
+        
 And I'm also a Biggg Fan of Pixel Art, abstract reality things and draw it on paper, pixel is a cool expression of how you see things, that's so cool.
 </div>
       </td>
       <td>
-<img align="right" width="200" src="./assets/avatar_whole_body.png" />
+<img align="right" width="300" src="./assets/avatar_whole_body.png" />
       </td>
     </tr>
   </table>
