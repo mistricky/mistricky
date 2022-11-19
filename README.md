@@ -41,7 +41,7 @@ Nowdays, in addition to create pixel art, I'm working hard on Kickflip, If you h
 </div>
       </td>
       <td>
-<img align="right" width="300" src="./assets/avatar_whole_body.png" />
+<img align="right" src="./assets/avatar_whole_body.png" />
       </td>
     </tr>
   </table>
