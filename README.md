@@ -17,6 +17,7 @@
       <div valign="top">
 <div>
           <img width="80" src="./assets/id_card.png" />
+          <H2>ID Card</H2>
         </div>
 Hi I'm Mist, a 6 year old developer from ChengDu China. I'm currently working on block chain projects, but I'm always open to new ideas. I'm also a big fan of TypeScript, also Rust / Haskell / Golang, Function programming lover.
 
@@ -28,11 +29,15 @@ I have a passion for programming language and framework design. I have plans to 
  <br />
  <div>
 <img width="80" src="./assets/palette.png" />
+
+<H2>Life Style</H2>
 </div>
         
         
         
 And I'm also a Biggg Fan of Pixel Art, abstract reality things and draw it on paper, pixel is a cool expression of how you see things, that's so cool.
+
+Nowdays, in addition to create pixel art, I'm working hard on Kickflip, If you have any tips you can show me, please let me know! 🙏
 </div>
       </td>
       <td>
@@ -41,13 +46,15 @@ And I'm also a Biggg Fan of Pixel Art, abstract reality things and draw it on pa
     </tr>
   </table>
 
-
-
-
-<!-- <img src="https://komarev.com/ghpvc/?username=youncccat&color=brightgreen" />
-  <a href="mailto:mist.zzh@gmail.com"><img src="https://img.shields.io/badge/-Zhao✨-ff69b4?style=flat&logo=Gmail&logoColor=white" alt="Mail" /></a>
+<img src="https://komarev.com/ghpvc/?username=youncccat&color=brightgreen" />
+<a href="mailto:mist.zzh@gmail.com"><img src="https://img.shields.io/badge/-Zhao✨-ff69b4?style=flat&logo=Gmail&logoColor=white" alt="Mail" /></a>
   <a href="https://twitter.com/_mistricky"><img src="https://img.shields.io/badge/-_mistricky-blue?style=flat&logo=Twitter&logoColor=white"  alt="Twitter"/></a>
   <a href="https://zzhack.fun"><img src="https://img.shields.io/badge/blog-zzhack.fun-orange" alt="ZZHACK" /></a>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=youncccat&color=brightgreen" />
+  
+
+  
   <img src="https://img.shields.io/badge/-%3CMist%20/%3E-orchid?style=flat&logo=discord&logoColor=white" />
   <a href=""><img src="https://img.shields.io/badge/-Mistricky-black?logo=dev.to" alt="DEV" /></a> -->
 
