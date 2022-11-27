@@ -19,12 +19,12 @@
           <img width="80" src="./assets/id_card.png" />
           <H2>ID Card</H2>
         </div>
-Hi I'm Mist, a 6 year old developer from ChengDu China. I'm currently working on block chain projects, but I'm always open to new ideas. I'm also a big fan of TypeScript, also Rust / Haskell / Golang, Function programming lover.
+Hi, I'm Mist, a more than 6 year developer from ChengDu China. I'm currently working on blockchain projects, but I'm always open to new ideas. And I'm a big fan of TypeScript, like Rust / Haskell / Golang, Function programming lover.
 
 <br />
         <br />
 
-I have a passion for programming language and framework design. I have plans to create my own programming language which called Mist and will be placed [there](https://github.com/mistlang) , but nothing has started yet :(, if you are interested in this project, please contact me.
+I have a passion for programming language and framework design. I have plans to create my own programming language which is called Mist and will be placed [there](https://github.com/mistlang), but nothing has started yet :(, if you are interested in this project, please contact me.
 
  <br />
  <div>
