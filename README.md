@@ -33,9 +33,9 @@ I have a passion for programming language and framework design, and I have plans
         
         
         
-And I'm also a Biggg Fan of Pixel Art, abstract reality things and draw it on paper, pixel is a cool expression of how you see things, that's so cool.
+And I'm also a big fan of pixel art, abstract reality, and drawing on paper. Pixel art is a cool way to express how you see things, and I find it fascinating.
 
-Nowdays, in addition to create pixel art, I'm working hard on Kickflip, If you have any tips you can show me, please let me know! 🙏
+Currently, in addition to creating pixel art, I'm working hard on Kickflip. If you have any tips, please let me know! 🙏
 </div>
       </td>
       <td>
